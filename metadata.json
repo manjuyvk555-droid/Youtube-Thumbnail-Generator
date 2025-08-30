@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI YouTube Thumbnail Generator",
+  "description": "An application that generates a professional YouTube thumbnail based on a provided title and a headshot of the YouTuber. The app uses AI to integrate the headshot into a dynamic, eye-catching design with bold, contrasting text and vibrant colors.",
+  "requestFramePermissions": []
+}
